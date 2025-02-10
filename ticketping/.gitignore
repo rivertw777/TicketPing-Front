@@ -25,3 +25,5 @@ yarn-error.log*
 package-lock.json
 
 .env
+
+kubernetes/react-env-config.yaml
